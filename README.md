@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harshitaraj1008
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web development & java programming...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Ask me about Java, HTML and CSS, JavaScript
 - 📫 How to reach me harshitaraj805@gmail.com
 
 <!---
